@@ -3,5 +3,5 @@ package golib
 import "fmt"
 
 func Greeting(nama string) string{
-	return fmt.Sprintf("hello %v", nama)
+	return fmt.Sprintf("hello %v, selamat datang", nama)
 }
